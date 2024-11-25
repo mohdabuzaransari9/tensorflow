@@ -10,6 +10,6 @@ now open vscode and copy paste this command in your terminal in cmd remember ***
 conda create -p python==3.10 -y<br>
 conda activate venv/<br><br>
 
-### note<br>
+## note<br>
 here -p means environment is created in present working directory<br>
 and -y means yes to all prompts that appears while creating environment<br>
