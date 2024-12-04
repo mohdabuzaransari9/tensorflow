@@ -7,7 +7,7 @@ not just copy and pasting code we will learn how actually things work<br><br>
 ## steps
 now open vscode and copy paste this command in your terminal in cmd remember ****in cmd not in powershell****<br>
 -- ensure you have anaconda already installed in your system<br>
-conda create -p python==3.10 -y<br>
+conda create -p venv python==3.10 -y<br>
 conda activate venv/<br><br>
 
 ## note<br>
